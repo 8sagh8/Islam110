@@ -78,6 +78,28 @@
     },
     {
         "id": 8, 
+        "subject": "Ks ki Pervi / Itaba karain? Jo janta hai yaa jo rah nhi janta", 
+        "references": {
+            "book": "Quran", 
+            "volume": "Surah Yunus Chapter 10", 
+            "page": "", 
+            "line": "Ayat: 35 "
+        }, 
+        "description": "Jo sahih rah batata hai zyada haqdar hai k uski pervi ki jaye YAA jo khud rah nhi pata - Tm kese faisle karte ho?"
+    },
+    {
+        "id": 9, 
+        "subject": "Khalifa - Nabi kisey Khalifa banatey", 
+        "references": {
+            "book": "Musnad Ahmed bin Hambal", 
+            "volume": "V-11", 
+            "page": "99", 
+            "line": "Hadees# 24850"
+        }, 
+        "description": "ayesha said, nabi ney kisi ko b khalifa nhi chuna aur chuntey tu abu bakar aur umar ko"
+    },
+    {
+        "id": 8, 
         "subject": "", 
         "references": {
             "book": "", 
