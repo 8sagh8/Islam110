@@ -54,7 +54,7 @@
 }
 
 .search-container input {
-  width: 200px; /* adjust as needed */
+  width: auto; /* adjust as needed */
   height: 30px;
   font-size: 18px;
 }
@@ -108,7 +108,7 @@
   border-radius: 5px;
   padding: 1em;
   margin-bottom: 1em;
-  width: 80%;
+  width: 90%;
   box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.1);
 }
 
