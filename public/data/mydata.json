@@ -92,22 +92,88 @@
         "subject": "Khalifa - Nabi kisey Khalifa banatey", 
         "references": {
             "book": "Musnad Ahmed bin Hambal", 
-            "volume": "V-11", 
+            "volume": "11", 
             "page": "99", 
             "line": "Hadees# 24850"
         }, 
         "description": "ayesha said, nabi ney kisi ko b khalifa nhi chuna aur chuntey tu abu bakar aur umar ko"
     },
     {
-        "id": 8, 
-        "subject": "", 
+        "id":10,
+        "subject":"Ata'at | Quraish | Muslim",
         "references": {
-            "book": "", 
-            "volume": "", 
-            "page": "", 
-            "line": "Hadees# "
-        }, 
-        "description": ""
-    }
+        "book":"Sahih Muslim",
+        "volume":"5",
+        "page":"113",
+        "line":"Hadees# 4701"
+        },
+        "description":"Har musalmaan QURAISH k taabey hai"
+      },
+      {
+        "id":11,
+        "subject":"Ata'at | Quraish | Muslim",
+        "references": {
+        "book":"Sahih Muslim",
+        "volume":"05",
+        "page":"113",
+        "line":"Hadees# 4702"
+        },
+        "description":"Har musalmaan QURAISH k taabey hai"
+      },
+      {
+        "id":12,
+        "subject":"Ata'at | Quraish | Muslim",
+        "references":{
+        "book":"Sahih Muslim",
+        "volume":"05",
+        "page":"113",
+        "line":"Hadees# 4703"
+        },
+        "description":"Har musalmaan QURAISH k taabey hai"
+      },
+      {
+        "id":13,
+        "subject":"Khalifa | Quraish",
+        "references": {
+        "book":"Sahih Muslim",
+        "volume":"05",
+        "page":"113",
+        "line":"Hadees# 4704"
+        },
+        "description":"Khilafat hamesha Quraish mai rahegi"
+      },
+      {
+        "id":14,
+        "subject":"Ata'at | Quraish | Muslim",
+        "references": {
+        "book":"mustadrak al sahi",
+        "volume":"03",
+        "page":"494",
+        "line":"Hadees# 5979"
+        },
+        "description":"Har musalmaan QURAISH k taabey hai"
+      },
+      {
+        "id":15,
+        "subject":"Ata'at | Quraish | Muslim",
+        "references": {
+        "book":"mustadrak al sahi",
+        "volume":"03",
+        "page":"494",
+        "line":"Hadees# 5980"
+        },
+        "description":"Har musalmaan QURAISH k taabey hai"
+      },
+      {
+        "id":16,
+        "subject":"Khalifa | Quraish",
+        "references": {
+        "book":"mustadrak al sahi",
+        "volume":"03",
+        "page":"494",
+        "line":"Hadees# 5981"
+        },
+        "description":"khilafat quraish mai rahegi jb k doo loog bhi baqi rahe"
+      }
   ]
   
