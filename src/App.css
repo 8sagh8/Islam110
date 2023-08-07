@@ -28,9 +28,12 @@
   min-height: 100vh;
 }
 
+/* The Header Section */
+
 .header {
   display: flex;
   justify-content: space-between;
+  text-align: center;
   align-items: center;
   padding: 20px;
   background-color: #f8f8f8;
@@ -42,29 +45,74 @@
 }
 
 .header h1 {
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .content {
   display: flex;
   flex: 1;
-  padding: 20px;
+  padding: 10px;
 }
 
+/* The Left Menu Section */
+
 .left-menu {
-  flex: 1;
+  flex: 0.4;
   border-right: 1px solid #ddd;
-  padding-right: 10px;
+  padding-right: 20px;
+  background-color: #f8f8f8;
 }
+
 
 .left-menu a {
   display: block;
-  margin-bottom: 10px;
   color: #333;
   text-decoration: none;
+  margin-bottom: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
 }
 
+.left-menu a:hover {
+  background-color: #e0e0e0;
+}
+
+/* The Display Data Section */
+
 .data-display {
+  /* display: flex; */
   flex: 3;
-  padding-left: 10px;
+  flex-direction: column;
+  align-items: center;
+  margin: 2em;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.data-display div {
+  background-color: #f9f9f9;
+  border: 1px solid #e1e1e1;
+  border-radius: 5px;
+  padding: 1em;
+  margin-bottom: 1em;
+  width: 80%;
+  box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.1);
+}
+
+.data-display h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 0.5em;
+}
+
+.data-display h3 {
+  font-size: 20px;
+  color: #666;
+  margin-bottom: 0.3em;
+}
+
+.data-display p {
+  color: #333;
+  margin-bottom: 0.5em;
 }

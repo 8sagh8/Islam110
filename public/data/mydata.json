@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1, 
+      "subject": "Math", 
+      "references": {
+        "book": "Algebra I", 
+        "volume": "Vol. 1", 
+        "page": "p.24", 
+        "line": "line 8"
+      }, 
+      "description": "This is a detailed description of the math subject..."
+    },
+    {
+        "id": 2, 
+        "subject": "Math", 
+        "references": {
+          "book": "Algebra I", 
+          "volume": "Vol. 1", 
+          "page": "p.24", 
+          "line": "line 8"
+        }, 
+        "description": "This is a detailed description of the math subject..."
+      },
+      {
+        "id": 3, 
+        "subject": "Math", 
+        "references": {
+          "book": "Algebra I", 
+          "volume": "Vol. 1", 
+          "page": "p.24", 
+          "line": "line 8"
+        }, 
+        "description": "This is a detailed description of the math subject..."
+      }
+  ]
+  
