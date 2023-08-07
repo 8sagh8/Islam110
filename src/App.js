@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import React, { useState } from 'react';
+import { BrowserRouter as Router, Route , Switch, Routes  } from 'react-router-dom';
 import LeftMenu from './components/LeftMenu';
 import Header from './components/Header';
 import DataDisplay from './components/DataDisplay';
+
+
 
 function App() {
   return (
@@ -17,6 +19,9 @@ function App() {
         </div>
       </div>
     </Router>
+
+
+
   );
 }
 

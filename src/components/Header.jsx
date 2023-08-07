@@ -4,10 +4,14 @@ import React from 'react';
 const Header = () => {
   return (
     <div className="header">
-      {/* <img src={logo} alt="Logo" /> */}
-      <h1>Islamic Study / References / Comparative analysis</h1>
+        <div className="logo">
+            {/* <img src={logo} alt="Logo" /> */}
+            <h1>Islamic Study / References / Comparative analysis</h1>
+        </div>
     </div>
+
   );
 }
 
 export default Header;
+
