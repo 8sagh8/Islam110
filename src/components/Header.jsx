@@ -6,7 +6,7 @@ const Header = () => {
     <div className="header">
         <div className="logo">
             {/* <img src={logo} alt="Logo" /> */}
-            <h1>Islamic Study / References / Comparative analysis</h1>
+            <h1>Islamic Hub</h1>
         </div>
     </div>
 
