@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className="header">
       {/* <img src={logo} alt="Logo" /> */}
-      <h1>Website Title</h1>
+      <h1>Islamic Study / References / Comparative analysis</h1>
     </div>
   );
 }
