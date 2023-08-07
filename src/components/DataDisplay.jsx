@@ -40,7 +40,7 @@ const DataDisplay = () => {
       <div key={item.id}>
         <h2>{item.id}: {item.subject}</h2>
         <h3>References:</h3>
-        <p>{item.references.book}, {item.references.volume}, {item.references.page}, {item.references.line}</p>
+        <p>{item.references.book} - V: {item.references.volume}, page# {item.references.page}, {item.references.line}</p>
         <h3>Description:</h3>
         <p>{item.description}</p>
       </div>

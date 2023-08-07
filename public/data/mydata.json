@@ -1,47 +1,36 @@
 [
     {
       "id": 1, 
-      "subject": "Math", 
+      "subject": "Matti pr Sajda", 
       "references": {
-        "book": "Algebra I", 
-        "volume": "Vol. 1", 
-        "page": "p.24", 
-        "line": "line 8"
+        "book": "Sahih Bukhari", 
+        "volume": "01", 
+        "page": "528", 
+        "line": "Hadees# 836"
       }, 
-      "description": "This is a detailed description of the math subject..."
+      "description": "Matti pr sajda Nabi (sawaw) krtey thy wo sabit hota hai"
     },
     {
-        "id": 2, 
-        "subject": "Math", 
-        "references": {
-          "book": "Algebra I", 
-          "volume": "Vol. 1", 
-          "page": "p.24", 
-          "line": "line 8"
-        }, 
-        "description": "This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject...This is a detailed description of the math subject..."
-      },
-      {
+    "id": 2, 
+    "subject": "Hazrat Ali | Paoon ka masah", 
+    "references": {
+        "book": "Sahih Bukhari", 
+        "volume": "05", 
+        "page": "410", 
+        "line": "Hadees# 5616"
+    }, 
+    "description": "Hazrat Ali k wazu ka zikr hai magar Sar Paoon ki baat adhi bayaan ki.."
+    },
+    {
         "id": 3, 
-        "subject": "Math", 
+        "subject": "Hazrat Ali | Paoon ka masah", 
         "references": {
-          "book": "Algebra I", 
-          "volume": "Vol. 1", 
-          "page": "p.24", 
-          "line": "line 8"
+            "book": "Musnad Ahmed bin Hambal", 
+            "volume": "01", 
+            "page": "369", 
+            "line": "hadees# 737"
         }, 
-        "description": "This is a detailed description of the math subject..."
-      },
-      {
-        "id": 4, 
-        "subject": "English", 
-        "references": {
-          "book": "Sahih Bukhari I", 
-          "volume": "Vol. 1", 
-          "page": "p.24", 
-          "line": "line 8"
-        }, 
-        "description": "Ali..."
-      }
+        "description": "Yaha bayaan howa k Hazrat Ali ne farmaya k Nabi (sawaw) paoon k opper hissey ka masah karte thy, Smartness ye ki urdu tarjumey main Socks/jootey ka word add kardia.. jb k arabi main Paoon tha. --But-- Sunan Abu Dawood main yahi ahadees SOCKS arabic main hain --Musanib abhi shaiba-- main direct paoon pr masah ka mojood hai... mere pass book nhi tu direct check nhi kia"
+    }
   ]
   
