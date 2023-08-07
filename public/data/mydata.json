@@ -31,6 +31,61 @@
             "line": "hadees# 737"
         }, 
         "description": "Yaha bayaan howa k Hazrat Ali ne farmaya k Nabi (sawaw) paoon k opper hissey ka masah karte thy, Smartness ye ki urdu tarjumey main Socks/jootey ka word add kardia.. jb k arabi main Paoon tha. --But-- Sunan Abu Dawood main yahi ahadees SOCKS arabic main hain --Musanib abhi shaiba-- main direct paoon pr masah ka mojood hai... mere pass book nhi tu direct check nhi kia"
+    },
+    {
+        "id": 4, 
+        "subject": "Hazrat Ali | Kharey ho k pani peena", 
+        "references": {
+            "book": "Sahih Bukhari", 
+            "volume": "05", 
+            "page": "409", 
+            "line": "hadees# 5615-5616"
+        }, 
+        "description": "Topic Kharey ho k paani peena - Masjid-e-Koofa main Hazrat Ali ne kharey ho k paani piya aur bataya k kuch loog makroh samajte hain jb k Nabi (sawaw) bhi aise krte thy"
+    },
+    {
+        "id": 5, 
+        "subject": "Hazrat Ayesha | Yusuf k gird aurteen | women around Yusuf", 
+        "references": {
+            "book": "Sahih Muslim", 
+            "volume": "01 - English", 
+            "page": "531", 
+            "line": "hadees# 940"
+        }, 
+        "description": "End main Bibi ayesha se Allah k Rasool (sawaw) ne farmaya k tum yusuf k gird aurtoon ki tarha ho yaan aziyat dene wali"
+    },
+    {
+        "id": 6, 
+        "subject": "Hazrat Fatimah as | Gazabnaak | Jannat", 
+        "references": {
+            "book": "Sahih Bukhari", 
+            "volume": "03", 
+            "page": "765", 
+            "line": "Hadees# 6767"
+        }, 
+        "description": "Hazrat Fatima (as) Jannat ki aurtoo ki sardaar hain -  Fatima (as) Mere (sawaw) jism ka tukra hai, jisney usey(as) gazabnaak kia usne muje (sawaw) gazabnaak kia."
+    },
+    {
+        "id": 7, 
+        "subject": "Meaning badalna | alaihis salam | Bibi Fatimah as", 
+        "references": {
+            "book": "Sahih Bukhari", 
+            "volume": "05", 
+            "page": "737", 
+            "line": "Hadees# 6318"
+        }, 
+        "description": "Yaha arabi main Dadi Fatimah k naam k sath Alaihis-salam hai pr URDU main Raziallah kardia.. jb k Bibi Ayesha k naam k sath kuch nhi"
+    },
+    {
+        "id": 8, 
+        "subject": "", 
+        "references": {
+            "book": "", 
+            "volume": "", 
+            "page": "", 
+            "line": "Hadees# "
+        }, 
+        "description": ""
     }
   ]
   
