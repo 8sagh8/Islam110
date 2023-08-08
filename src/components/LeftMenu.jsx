@@ -5,7 +5,9 @@ const LeftMenu = () => {
     return (
       <div className="left-menu">
         <Link to="/page1">Events</Link>
-        <Link to="/page2">Page 2</Link>
+        <a href="https://drive.google.com/drive/folders/13v2FOCE1jxoMFamo0qPzIgNuFPLqWayv" target="_blank" rel="noopener noreferrer">
+          Zakiri Books
+        </a>
         <Link to="/page3">Page 3</Link>
         <Link to="/page4">Page 4</Link>
         <Link to="/page5">Page 5</Link>

@@ -298,7 +298,7 @@
       },
       {
         "id":28,
-        "subject":"12 Khalifa | Quraish add",
+        "subject":"12 Khalifa | Quraish",
         "references":{
         "book":"mustadrak al sahi",
         "volume":"3",
@@ -306,6 +306,105 @@
         "line":"Hadees# 5983"
         },
         "description":"Qayamat tk deen qaim rahega aur logoo k mamlaat theek rahey gey aur 12 khalifa hongey quraish se"
+      },
+      {
+        "id":29,
+        "subject":"Khilafat | Mulki'at | 30 saal",
+        "references":{
+          "book":"tareekh ibne kaseer",
+          "volume":"2.0",
+          "page":"255",
+          "line":"Khulfa ki Khilafat ka asar:-"
+        },
+        "description":"30 saal aur phir mulki'at"
+      },
+      {
+        "id":30,
+        "subject":"Khilafat | Mulki'at | 30 saal",
+        "references":{
+          "book":"Tarekh ul Khulafa",
+          "volume":"nan",
+          "page":"25",
+          "line":"Islam mai Muddat-e-Khilafat"
+        },
+        "description":"30 saal rahegi khilafat"
+      },
+      {
+        "id":31,
+        "subject":"Khilafat | Mulki'at | 30 saal",
+        "references":{
+          "book":"Tirmazi",
+          "volume":"2",
+          "page":"111",
+          "line":"Hadees# 2226"
+        },
+        "description":"mere baad 30 saal khilafat aur phir badshahat aur phir NARATTOR ne gin kr chaar khalifa k naam lye (imam hassan ko ignore kardia q??"
+      },
+      {
+        "id":32,
+        "subject":"Khilafat | Sawal na karo",
+        "references":{
+          "book":"Sahih Muslim",
+          "volume":"5",
+          "page":"119",
+          "line":"Hadees# 4715"
+        },
+        "description":"Khilafat hasil karney ka sawal na karo, js ney sawal kar k hasil ki tu ALLAH usey choor dega aur jisey bina mangey mili tu ALLAH madad karega"
+      },
+      {
+        "id":33,
+        "subject":"Khilafat | Sawal na karo",
+        "references":{
+          "book":"Sahih Muslim",
+          "volume":"5",
+          "page":"119",
+          "line":"Hadees# 4716"
+        },
+        "description":"Khilafat hasil karney ka sawal na karo, js ney sawal kar k hasil ki tu ALLAH usey choor dega aur jisey bina mangey mili tu ALLAH madad karega"
+      },
+      {
+        "id":34,
+        "subject":"Khilafat | Sawal na karo",
+        "references":{
+          "book":"Sahih Muslim",
+          "volume":"05",
+          "page":"119",
+          "line":"Hadees# 4717"
+        },
+        "description":"hum hukumat ka sawal karney waley ko nhi detey hukumat (islye hukumat ka sawal karney se mana kia hai)"
+      },
+      {
+        "id":35,
+        "subject":"Khilafat | Sawal na karo",
+        "references":{
+          "book":"Sahih Muslim",
+          "volume":"05",
+          "page":"119",
+          "line":"Hadees# 4718"
+        },
+        "description":"hum hukumat ka sawal karney waley ko nhi detey hukumat (islye hukumat ka sawal karney se mana kia hai)"
+      },
+      {
+        "id":36,
+        "subject":"Khalifa | Zaid bin Harsa",
+        "references":{
+          "book":"Musnad Ahmed ibn hambal",
+          "volume":"11",
+          "page":"651",
+          "line":"Hadees# 26942"
+        },
+        "description":"agar ZAID BIN HARSA zindah hotey tu nabi(s.a.w.a.w) unhey khalifa banatey"
+      },
+      {
+        "id":37,
+        "subject":"Khalifa",
+        "references":{
+          "book":"Sahih Muslim",
+          "volume":"06",
+          "page":"77",
+          "line":"Hadees# 6178"
+        },
+        "description":"ayesha se pocha agar Nabi (s.a.w.a..w) khalifa chuntey tu pehla Abu bakar, phir umar phir obaidah bin jarrah"
       }
   ]
   
