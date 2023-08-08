@@ -8,7 +8,9 @@ const LeftMenu = () => {
         <a href="https://drive.google.com/drive/folders/13v2FOCE1jxoMFamo0qPzIgNuFPLqWayv" target="_blank" rel="noopener noreferrer">
           Zakiri Books
         </a>
-        <Link to="/page3">Page 3</Link>
+        <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">
+          YouTube Link
+        </a>
         <Link to="/page4">Page 4</Link>
         <Link to="/page5">Page 5</Link>
         <Link to="/page6">Page 6</Link>
