@@ -2875,6 +2875,413 @@
       "line": "Hadees# 4579"
     },
     "description": "ali har momin ka wali hai"
+  },
+  {
+    "id": 269,
+    "subject": "Amma Khadija",
+    "references": {
+      "book": "Mishkaat",
+      "volume": "3",
+      "page": "563",
+      "line": "Hadees# 6184"
+    },
+    "description": "pichley zamaney mai MARYAM sb se afzal thi aur is zamaney  mai BIBI KHADIJA"
+  },
+  {
+    "id": 270,
+    "subject": "Amma Khadija",
+    "references": {
+      "book": "Mishkaat",
+      "volume": "3",
+      "page": "564",
+      "line": "Hadees# 6186"
+    },
+    "description": "ayesha said, nabi(s.a.w.a.w) sb se zyada BIBI KHADIJA se mohabbat aur unki tareef kartey thy"
+  },
+  {
+    "id": 271,
+    "subject": "Amma Khadija",
+    "references": {
+      "book": "Sahih Muslim",
+      "volume": "6",
+      "page": "106",
+      "line": "Hadees# 6271"
+    },
+    "description": "sb se zyada afzal Bibi Maryam aur BIBI KHADIJA hain"
+  },
+  {
+    "id": 272,
+    "subject": "Amma Khadija",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "55716",
+      "page": "366",
+      "line": "Hadees# 6419"
+    },
+    "description": "sb se zyada afzal Bibi Maryam aur BIBI KHADIJA hain"
+  },
+  {
+    "id": 273,
+    "subject": "bibi fatima binte asad",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "44257-5717",
+      "page": "223",
+      "line": "Hadees# 4574"
+    },
+    "description": "nabi (s.a.w.a.w) ney khud bibi ko qabar mai utara"
+  },
+  {
+    "id": 274,
+    "subject": "amma ayesha | Zyada Paise deta Umar",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "55716",
+      "page": "521",
+      "line": "Hadees# 6723"
+    },
+    "description": "umar zyada raqam deta tha ayesha ko dosri bwioo se zyada"
+  },
+  {
+    "id": 275,
+    "subject": "amma ayesha | Zyada Paise deta Umar",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "55716",
+      "page": "522",
+      "line": "Hadees# 6724"
+    },
+    "description": "umar zyada raqam deta tha ayesha ko dosri bwioo se zyada"
+  },
+  {
+    "id": 276,
+    "subject": "amma ayesha",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "44257-5715",
+      "page": "243",
+      "line": "Hadees# 4610"
+    },
+    "description": "ayesha hass pari nabi(s.a.w.a.w) ki baat sun kr"
+  },
+  {
+    "id": 277,
+    "subject": "amma ayesha | Alima",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "55716",
+      "page": "527",
+      "line": "Hadees# 6732-6733-6734-6735"
+    },
+    "description": "sb se zyada ilm ayesha ka tha"
+  },
+  {
+    "id": 278,
+    "subject": "amma ayesha | Alima",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "55716",
+      "page": "532",
+      "line": "Hadees# 6747-6748"
+    },
+    "description": "sb se zyada ilm ayesha ka tha"
+  },
+  {
+    "id": 279,
+    "subject": "amma ayesha | Wirasat",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "55716",
+      "page": "528",
+      "line": "Hadees# 6736"
+    },
+    "description": "wirasat key masloo ki champion ayesha"
+  },
+  {
+    "id": 280,
+    "subject": "amma ayesha | Hadees samaj na saki",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "55716",
+      "page": "552",
+      "line": "Hadees# 6776"
+    },
+    "description": "ayesha k ilm ki haqiqat k key hadees tu samaj na saki"
+  },
+  {
+    "id": 281,
+    "subject": "amma ayesha",
+    "references": {
+      "book": "tirmazi",
+      "volume": "2",
+      "page": "848",
+      "line": "Hadees# 3318"
+    },
+    "description": "surah tahrim"
+  },
+  {
+    "id": 282,
+    "subject": "hazrat abu talib | Emaan",
+    "references": {
+      "book": "tareekh e tabari",
+      "volume": "2",
+      "page": "67",
+      "line": "nan"
+    },
+    "description": "hazrat abu talib ne kaha hazrat ali se k hazrat mohammad k sath raho wo sirf khair sikhatey hain aur un k deen pr raho"
+  },
+  {
+    "id": 283,
+    "subject": "hazrat abu hurera | Buraee",
+    "references": {
+      "book": "musnand ahmed ibne hambal",
+      "volume": "11",
+      "page": "237",
+      "line": "Hadees# 25377"
+    },
+    "description": "ayesha ne ki abu hurera ki buraee"
+  },
+  {
+    "id": 284,
+    "subject": "hazrat Abuzar | Sachey",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "67354",
+      "page": "614",
+      "line": "Hadees# 8478"
+    },
+    "description": "abu zar se zyada sachey lehje wala nhi dekha,, ye quote karna usman waley case mai"
+  },
+  {
+    "id": 285,
+    "subject": "bibi ume salma | Jamal main janey se inkaar",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "44257-5715",
+      "page": "244",
+      "line": "Hadees# 4611"
+    },
+    "description": "nabi(s.a.w.a.w) ney apni bvioo ko ghara se nikalney ko mana na kia hota tu  mai khud chalti sath mai aap k"
+  },
+  {
+    "id": 286,
+    "subject": "bibi ume salma | Baita Umar",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "55716",
+      "page": "536",
+      "line": "Hadees# 6757"
+    },
+    "description": "bibi key baitey ka naam UMAR"
+  },
+  {
+    "id": 287,
+    "subject": "from: Amma AYESHA | Fidak",
+    "references": {
+      "book": "Musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "75",
+      "line": "Hadees# 9"
+    },
+    "description": "fidak wala part (bibi fatima ki narazgi missing)"
+  },
+  {
+    "id": 288,
+    "subject": "from: Abul TAFEEL | Fidak",
+    "references": {
+      "book": "Musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "77",
+      "line": "Hadees# 14"
+    },
+    "description": "fidak wala part (bibi fatima razi ho gai abu bakar k faisley pr ye bool kr k aap zyada jantey ho kia nabi ney kaha)"
+  },
+  {
+    "id": 289,
+    "subject": "from: Amma AYESHA | Fidak",
+    "references": {
+      "book": "Musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "86",
+      "line": "Hadees# 25"
+    },
+    "description": "Complete that BIBI GOT ANGRY but in URDU wrong translated. Check english one"
+  },
+  {
+    "id": 290,
+    "subject": "from: Amma AYESHA | Fidak",
+    "references": {
+      "book": "Musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "97",
+      "line": "Hadees# 55"
+    },
+    "description": "Complete that BIBI GOT ANGRY but in URDU wrong translated. Check english one"
+  },
+  {
+    "id": 291,
+    "subject": "from: Amma AYESHA | Fidak",
+    "references": {
+      "book": "Musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "98",
+      "line": "Hadees# 58"
+    },
+    "description": "fidak wala part (bibi fatima ki narazgi missing)"
+  },
+  {
+    "id": 292,
+    "subject": "FROM: ABO SALMA | Fidak",
+    "references": {
+      "book": "Musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "99",
+      "line": "Hadees# 60"
+    },
+    "description": "Fidak only questioning part that who will be next kin"
+  },
+  {
+    "id": 293,
+    "subject": "From: Abu hurerah | Fidak",
+    "references": {
+      "book": "Musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "109",
+      "line": "Hadees# 79"
+    },
+    "description": "only BIBI asked from ABU BAKAR AND UMAR and they both refused it"
+  },
+  {
+    "id": 294,
+    "subject": "Tatheer | Ahlebait",
+    "references": {
+      "book": "Mishkaat",
+      "volume": "3",
+      "page": "547",
+      "line": "Hadees# 6136"
+    },
+    "description": "aap (s.a.w.a.w) ney charoon ko chadar mai lia aur is ayat ki tilawat ki"
+  },
+  {
+    "id": 295,
+    "subject": "Tatheer | Ahlebait",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "12",
+      "page": "38",
+      "line": "Hadees# 27041"
+    },
+    "description": "aap (s.a.w.a.w) ney charoon ko chadar mai lia aur is ayat ki tilawat ki"
+  },
+  {
+    "id": 296,
+    "subject": "Tatheer | Ahlebait",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "12",
+      "page": "38",
+      "line": "Hadees# 27042"
+    },
+    "description": "aap (s.a.w.a.w) ney charoon ko chadar mai lia aur is ayat ki tilawat ki"
+  },
+  {
+    "id": 297,
+    "subject": "Tatheer | Ahlebait",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "12",
+      "page": "38",
+      "line": "Hadees# 27043"
+    },
+    "description": "aap (s.a.w.a.w) ney charoon ko chadar mai lia aur is ayat ki tilawat ki"
+  },
+  {
+    "id": 298,
+    "subject": "Tatheer | Ahlebait",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "12",
+      "page": "50",
+      "line": "Hadees# 27075"
+    },
+    "description": "aap (s.a.w.a.w) ney charoon ko chadar mai lia aur is ayat ki tilawat ki"
+  },
+  {
+    "id": 299,
+    "subject": "Tatheer | Ahlebait | addition UME SALMA is part",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "12",
+      "page": "53",
+      "line": "Hadees# 27085"
+    },
+    "description": "umesalma is also part of it"
+  },
+  {
+    "id": 300,
+    "subject": "Tatheer | Ahlebait | Khas log",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "12",
+      "page": "67",
+      "line": "Hadees# 27132"
+    },
+    "description": "ye char mere khaas log aur ahlebait hain"
+  },
+  {
+    "id": 301,
+    "subject": "Tatheer | Ahlebait",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "12",
+      "page": "68",
+      "line": "Hadees# 27135"
+    },
+    "description": "aap (s.a.w.a.w) ney charoon ko chadar mai lia aur is ayat ki tilawat ki"
+  },
+  {
+    "id": 302,
+    "subject": "Tatheer | Ahlebait",
+    "references": {
+      "book": "Sahih Muslim",
+      "volume": "6",
+      "page": "104",
+      "line": "Hadees# 6261"
+    },
+    "description": "aap (s.a.w.a.w) ney charoon ko chadar mai lia aur is ayat ki tilawat ki"
+  },
+  {
+    "id": 303,
+    "subject": "Tatheer | Ahlebait | Ummey salma ko aaney se roka",
+    "references": {
+      "book": "Jamia Tirmzi",
+      "volume": "2",
+      "page": "1106",
+      "line": "Hadees# 3787"
+    },
+    "description": "aap (s.a.w.a.w) ney charoon ko chadar mai lia aur is ayat ki tilawat ki"
+  },
+  {
+    "id": 304,
+    "subject": "Tatheer | Ahlebait | Ummey salma ko aaney se roka",
+    "references": {
+      "book": "Jamia Tirmzi",
+      "volume": "2",
+      "page": "768",
+      "line": "Hadees# 3205"
+    },
+    "description": "aap (s.a.w.a.w) ney charoon ko chadar mai lia aur is ayat ki tilawat ki"
+  },
+  {
+    "id": 305,
+    "subject": "Tatheer | Ahlebait | Ummey salma ko aaney se roka",
+    "references": {
+      "book": "Jamia Tirmzi",
+      "volume": "2",
+      "page": "1142",
+      "line": "Hadees# 3871"
+    },
+    "description": "aap (s.a.w.a.w) ney charoon ko chadar mai lia aur is ayat ki tilawat ki"
   }
   ]
   
