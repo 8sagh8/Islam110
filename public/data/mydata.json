@@ -2677,6 +2677,204 @@
       "line": "Hadees# 4624"
     },
     "description": "ali ko js ney chora us ney nabi(s.a.w.a.w) ko chora aur js ney nabi (s.a.w.a.w) ko chora usney Allah ko chora"
+  },
+  {
+    "id": 251,
+    "subject": "Hazrat Ali | Ghadeer",
+    "references": {
+      "book": "Sunan ibne Majah",
+      "volume": "1",
+      "page": "182.0",
+      "line": "Hadees# 116"
+    },
+    "description": "gadeer   mola"
+  },
+  {
+    "id": 252,
+    "subject": "Hazrat Ali | Ghadeer",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "347.0",
+      "line": "Hadees# 670"
+    },
+    "description": "gadeer   mola"
+  },
+  {
+    "id": 253,
+    "subject": "Hazrat Ali | Ghadeer",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "437.0",
+      "line": "Hadees# 950"
+    },
+    "description": "gadeer   mola"
+  },
+  {
+    "id": 254,
+    "subject": "Hazrat Ali | Ghadeer",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "437.0",
+      "line": "Hadees# 951"
+    },
+    "description": "gadeer   mola"
+  },
+  {
+    "id": 255,
+    "subject": "Hazrat Ali | Ghadeer",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "437.0",
+      "line": "Hadees# 952"
+    },
+    "description": "gadeer   mola"
+  },
+  {
+    "id": 256,
+    "subject": "Hazrat Ali | Ali mujse hai",
+    "references": {
+      "book": "Mishkaat",
+      "volume": "3",
+      "page": "535.0",
+      "line": "Hadees# 6090"
+    },
+    "description": "Ali mujse(s.a.w.a.w) aur mai(s.a.w.a.w) ali se hoon, aur ali MOMINOO k MOLA hain"
+  },
+  {
+    "id": 257,
+    "subject": "Hazrat Ali",
+    "references": {
+      "book": "Mishkaat",
+      "volume": "3",
+      "page": "535.0",
+      "line": "Hadees# 6092"
+    },
+    "description": "meri(s.a.w.a.w) se koi adaigi siwae ali k koi aur na karey"
+  },
+  {
+    "id": 258,
+    "subject": "Umar Bakhin | Ghadeer",
+    "references": {
+      "book": "Mishkaat",
+      "volume": "3",
+      "page": "538.0",
+      "line": "Hadees# 6103"
+    },
+    "description": "gadeer   mola + umar ney mubarak baad di  (isey b zaeef keh dia hai)"
+  },
+  {
+    "id": 259,
+    "subject": "Hazrat Ali | Nabi ka bhai",
+    "references": {
+      "book": "Mishkaat",
+      "volume": "3",
+      "page": "536.0",
+      "line": "Hadees# 6093"
+    },
+    "description": "ashaab k beech bhaichara kia aur Ali se kaha k tum mere (s.a.w.a.w) aur akhirat mai bhai ho"
+  },
+  {
+    "id": 260,
+    "subject": "Hazrat Ali | Ghadeer",
+    "references": {
+      "book": "Mishkaat",
+      "volume": "3",
+      "page": "535.0",
+      "line": "Hadees# 6091"
+    },
+    "description": "mai(s.a.w.a.w) js ka mola ali b uska mola"
+  },
+  {
+    "id": 261,
+    "subject": "Hazrat Ali | Ghadeer",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "333.0",
+      "line": "Hadees# 641"
+    },
+    "description": "mai(s.a.w.a.w) js ka mola ali b uska mola"
+  },
+  {
+    "id": 262,
+    "subject": "Hazrat Ali | Ghadeer",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "442.0",
+      "line": "Hadees# 961"
+    },
+    "description": "mai(s.a.w.a.w) js ka mola ali b uska mola"
+  },
+  {
+    "id": 263,
+    "subject": "Hazrat Ali | Ghadeer",
+    "references": {
+      "book": "musnad ahmed ibne hambal",
+      "volume": "1",
+      "page": "442.0",
+      "line": "Hadees# 964"
+    },
+    "description": "mai(s.a.w.a.w) js ka mola ali b uska mola"
+  },
+  {
+    "id": 264,
+    "subject": "Hazrat Ali | Ghadeer",
+    "references": {
+      "book": "tirmizi",
+      "volume": "nan",
+      "page": "nan",
+      "line": "Hadees# 3713"
+    },
+    "description": "mai(s.a.w.a.w) js ka mola ali b uska mola"
+  },
+  {
+    "id": 265,
+    "subject": "Hazrat Ali | Ghadeer",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "44257-5715",
+      "page": "227.0",
+      "line": "Hadees# 4578"
+    },
+    "description": "mai(s.a.w.a.w) js ka mola ali b uska mola"
+  },
+  {
+    "id": 266,
+    "subject": "Hadeese Saqlain | Ghadeer",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "44257-5715",
+      "page": "226.0",
+      "line": "Hadees# 4576"
+    },
+    "description": "quran aur ahlebait kabhi alag na hongey, js ka mai maula us ka ali maula"
+  },
+  {
+    "id": 267,
+    "subject": "Hadeese Saqlain | Gumrah",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "44257-5715",
+      "page": "227.0",
+      "line": "Hadees# 4577"
+    },
+    "description": "quran aur ahlebait kabhi alag na hongey aur jb tk in donoo ko thamey rahogey kabhi gumrah na hongey, js ka mai maula us ka ali maula"
+  },
+  {
+    "id": 268,
+    "subject": "Hazrat Ali",
+    "references": {
+      "book": "al mustadrak",
+      "volume": "44257-5715",
+      "page": "228.0",
+      "line": "Hadees# 4579"
+    },
+    "description": "ali har momin ka wali hai"
   }
   ]
   
