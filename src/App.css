@@ -28,25 +28,7 @@
   min-height: 100vh;
 }
 
-/* The Header Section */
 
-.header {
-  /* display: flex; */
-  justify-content: space-between;
-  text-align: center;
-  align-items: center;
-  padding: 20px;
-  background-color: #f8f8f8;
-  border-bottom: 1px solid #ddd;
-}
-
-.header img {
-  width: 100px;
-}
-
-.header h1 {
-  margin-left: 10px;
-}
 
 .search-container {
   align-self: flex-end;

@@ -2,13 +2,15 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const LeftMenu = () => {
+  const zakiriBooksLink = "https://drive.google.com/drive/folders/13v2FOCE1jxoMFamo0qPzIgNuFPLqWayv"
+  const youtubeLink = "https://www.youtube.com/"
     return (
       <div className="left-menu">
         <Link to="/page1">Events</Link>
-        <a href="https://drive.google.com/drive/folders/13v2FOCE1jxoMFamo0qPzIgNuFPLqWayv" target="_blank" rel="noopener noreferrer">
+        <a href={zakiriBooksLink} target="_blank" rel="noopener noreferrer">
           Zakiri Books
         </a>
-        <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">
+        <a href={youtubeLink} target="_blank" rel="noopener noreferrer">
           YouTube Link
         </a>
         <Link to="/page4">Page 4</Link>
