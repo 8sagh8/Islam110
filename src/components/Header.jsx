@@ -25,7 +25,6 @@ const Header = () => {
 
   return (
     <div style={mainDivStyle}>
-        {/* <div className="logo"> */}
           <img style={imgStyle} src={logo} alt="Logo" /> 
           <h1 style={headerStyle}>{titleHeading}</h1>
      

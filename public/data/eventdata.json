@@ -1,0 +1,102 @@
+[
+    {   
+        "name":"Prophet Mohammad (sawaw)",
+        "birth": -53,
+        "birthDescription": "same year of Aamul Feel",
+        "death": 11,
+        "deathDescription": "28 Saffar Madinah"
+    },
+    {   
+        "name":"Mola Ali (as)",
+        "birth": -22,
+        "birthDescription": "in Kaaba 13 Rajab",
+        "death": 40,
+        "deathDescription": "21st Ramdaan"
+    },
+
+    {   
+        "name":"Syeda Fatima (as)",
+        "birth": -7,
+        "birthDescription": "",
+        "death": 11,
+        "deathDescription": ""
+    },
+    
+    {   
+        "name":"Imam Hassan (as)",
+        "birth": 3,
+        "birthDescription": "",
+        "death": 50,
+        "deathDescription": ""
+    },
+    {   
+        "name":"Imam Hussain (as)",
+        "birth": 4,
+        "birthDescription": "",
+        "death": 61,
+        "deathDescription": "Karbala 10th Moharram"
+    },
+    {   
+        "name":"Imam Zainul Abideen (as)",
+        "birth": 38,
+        "birthDescription": "",
+        "death": 95,
+        "deathDescription": ""
+    },
+    {   
+        "name":"Imam Mohammad Baqir(as)",
+        "birth": 57,
+        "birthDescription": "",
+        "death": 114,
+        "deathDescription": ""
+    },
+    {   
+        "name":"Imam Jaffer Sadiq(as)",
+        "birth": 83,
+        "birthDescription": "",
+        "death": 148,
+        "deathDescription": ""
+    },
+    {   
+        "name":"Imam Mosa Kazim (as)",
+        "birth": 128,
+        "birthDescription": "",
+        "death": 183,
+        "deathDescription": ""
+    },
+    {   
+        "name":"Imam Ali Riza (as)",
+        "birth": 148,
+        "birthDescription": "",
+        "death": 203,
+        "deathDescription": ""
+    },
+    {   
+        "name":"Imam Mohammad Taqi (as)",
+        "birth": 195,
+        "birthDescription": "",
+        "death": 220,
+        "deathDescription": ""
+    },
+    {   
+        "name":"Imam Ali Naqi (as)",
+        "birth": 212,
+        "birthDescription": "",
+        "death": 254,
+        "deathDescription": ""
+    },
+    {   
+        "name":"Imam Hassan Askari (as)",
+        "birth": 232,
+        "birthDescription": "",
+        "death": 260,
+        "deathDescription": ""
+    },
+    {   
+        "name":"Imam Zamana (as)",
+        "birth": 255,
+        "birthDescription": "",
+        "death": "",
+        "deathDescription": ""
+    }
+]

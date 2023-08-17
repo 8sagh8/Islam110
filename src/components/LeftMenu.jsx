@@ -7,7 +7,8 @@ const LeftMenu = () => {
   const youtubeLink = "https://www.youtube.com/"
     return (
       <div className="left-menu">
-        <Link to="/page1">Events</Link>
+        <Link to="/">References</Link>
+        <Link to="/EventPage">Events Page</Link>
         <a href={zakiriBooksLink} target="_blank" rel="noopener noreferrer">
           Zakiri Books
         </a>
@@ -18,11 +19,7 @@ const LeftMenu = () => {
           YouTube Link
         </a>
     
-        <Link to="/page5">Page 5</Link>
-        <Link to="/page6">Page 6</Link>
-        <Link to="/page7">Page 7</Link>
-        <Link to="/page8">Page 8</Link>
-        <Link to="/page9">Page 9</Link>
+      
       </div>
     );
   }
