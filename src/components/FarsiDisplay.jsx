@@ -60,32 +60,32 @@ const FarsiDisplay = () => {
             <tr key={item.id}>
               <td>
                 <td>
-                <p>{item.past_I}</p>
+                <p>{item.past_They}</p>
                 </td><td>
-                <p>{item.past_You}</p>
+                <p>{item.past_You_2}</p>                
+                </td><td>
+                <p>{item.past_We}</p>                
                 </td><td>
                 <p>{item.past_It}</p>
                 </td><td>
-                <p>{item.past_We}</p>
+                <p>{item.past_You}</p>
                 </td><td>
-                <p>{item.past_You_2}</p>
-                </td><td>
-                <p>{item.past_They}</p>
+                <p>{item.past_I}</p>
                 </td>
               </td>
               <td>
                 <td>
-                <p>{item.present_I}</p>
-                </td><td>
-                <p>{item.present_You}</p>
-                </td><td>
-                <p>{item.present_It}</p>
-                </td><td>
-                <p>{item.present_We}</p>
+                <p>{item.present_They}</p>
                 </td><td>
                 <p>{item.present_You_2}</p>
                 </td><td>
-                <p>{item.present_They}</p>
+                <p>{item.present_We}</p>
+                </td><td>
+                <p>{item.present_It}</p>
+                </td><td>
+                <p>{item.present_You}</p>
+                </td><td>
+                <p>{item.present_I}</p>
                 </td>
               </td>
               <td>{index + 1}) <br /><br />{item.mazdar}</td>

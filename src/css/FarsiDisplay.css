@@ -23,13 +23,13 @@
   width: 100%;
   max-width: 800px;
   border: 1px solid #ddd;
-  margin-top: 20px; /* Add margin to separate table from search box */
+  margin-top: 10px; /* Add margin to separate table from search box */
 }
 
 .farsi-table th,
 .farsi-table td {
   border: 1px solid #ddd;
-  padding: 1.5rem; /* Increased padding for better spacing */
+  padding: 1rem; /* Increased padding for better spacing */
   text-align: center;
 }
 
