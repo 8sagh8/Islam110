@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import EventPage from './pages/EventPage';
+import PersianPage from './pages/PersianPage';
 import {
   createBrowserRouter,
   RouterProvider,
@@ -17,6 +18,10 @@ const router = createBrowserRouter([
   {
     path: "EventPage",
     element: <EventPage/>,
+  },
+  {
+    path: "PersianPage",
+    element: <PersianPage/>,
   },
 ]);
 

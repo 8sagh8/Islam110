@@ -9,6 +9,7 @@ const LeftMenu = () => {
       <div className="left-menu">
         <Link to="/">References</Link>
         <Link to="/EventPage">Events Page</Link>
+        <Link to="/PersianPage">Persian Grammar</Link>
         <a href={zakiriBooksLink} target="_blank" rel="noopener noreferrer">
           Zakiri Books
         </a>
