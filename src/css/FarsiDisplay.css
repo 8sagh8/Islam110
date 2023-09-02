@@ -1,0 +1,52 @@
+.farsi-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.farsi-search {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.farsi-search input {
+  width: 300px; /* Adjust the width as needed */
+  padding: 10px;
+  font-size: 18px; /* Adjust the font size as needed */
+  text-align: center;
+}
+
+.farsi-table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 800px;
+  border: 1px solid #ddd;
+  margin-top: 20px; /* Add margin to separate table from search box */
+}
+
+.farsi-table th,
+.farsi-table td {
+  border: 1px solid #ddd;
+  padding: 1.5rem; /* Increased padding for better spacing */
+  text-align: center;
+}
+
+.farsi-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.farsi-table td p {
+  margin: 0;
+}
+
+/* New styling for the table rows */
+.farsi-table tbody tr {
+  transition: background-color 0.2s ease-in-out;
+}
+
+.farsi-table tbody tr:hover {
+  background-color: #f2f2f2; /* Highlight on hover */
+}
